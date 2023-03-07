@@ -20,13 +20,13 @@ I created this repository to document my learning journey and share the scripts 
 
 ## Usage
 
-To use any of the scripts in this repository, simply download the script and run it in your Bash shell:
+1. To use any of the scripts in this repository, simply download the script and run it in your Bash shell:
 
-```bash main.sh ```
+    ```bash main.sh ```
 
-Make sure that the script has execute permissions before running it:
+2. Make sure that the script has execute permissions before running it:
 
-```$ chmod +x main.sh ```
+    ```$ chmod +x main.sh ```
 
 ## Contributing
 If you have any Bash scripts that you would like to share or any improvements to suggest, feel free to contribute to this repository! Fork the repository, make your changes, and submit a pull request.
