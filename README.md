@@ -26,7 +26,7 @@ To use any of the scripts in this repository, simply download the script and run
 
 Make sure that the script has execute permissions before running it:
 
-```$ chmod +x script1.sh ```
+```$ chmod +x main.sh ```
 
 ## Contributing
 If you have any Bash scripts that you would like to share or any improvements to suggest, feel free to contribute to this repository! Fork the repository, make your changes, and submit a pull request.
