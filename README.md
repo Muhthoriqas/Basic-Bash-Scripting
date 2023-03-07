@@ -22,7 +22,7 @@ I created this repository to document my learning journey and share the scripts 
 
 To use any of the scripts in this repository, simply download the script and run it in your Bash shell:
 
-```bash $ ./main.sh ```
+```bash main.sh ```
 
 Make sure that the script has execute permissions before running it:
 
