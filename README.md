@@ -16,7 +16,7 @@ Welcome to my repository for learning Shell scripting! In this repository, you w
 ## Introduction
 
 Bash is a popular Unix shell and command language that allows you to automate tasks, write scripts, and more. 
-I created this repository to document my learning journey and share the scripts I have written with others who are also learning Bash.
+I created this repository to document my learning journey and share the scripts I have written with others who are also learning Bash
 
 ## Usage
 
