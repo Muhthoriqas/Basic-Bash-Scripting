@@ -29,7 +29,7 @@ I created this repository to document my learning journey and share the scripts 
     ```$ chmod +x main.sh ```
 
 ## Contributing
-If you have any Bash scripts that you would like to share or any improvements to suggest, feel free to contribute to this repository! Fork the repository, make your changes, and submit a pull request.
+If you have any Bash scripts that you would like to share or any improvements to suggest, feel free to contribute to this repository! Fork the repository, make your changes, and submit a pull request
 
 ## License
 This repository is licensed under the MIT License. See the LICENSE file for more information.
